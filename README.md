@@ -1,4 +1,4 @@
-# Pig-game
+# Pig-game using HTML5, CSS3 and Javascript
 
 Each turn, a player repeatedly rolls a die until either a 1 is rolled or the player decides to "hold":
 
